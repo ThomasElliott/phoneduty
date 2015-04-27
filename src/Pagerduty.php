@@ -14,7 +14,7 @@ use \DateInterval;
 
 class Pagerduty {
 
-    const DEFAULT_TIMEZONE = 'Pacific/Auckland';
+    const DEFAULT_TIMEZONE = 'America/New_York';
 
     protected $APItoken;
     protected $URL;
